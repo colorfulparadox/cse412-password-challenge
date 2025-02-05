@@ -1,7 +1,7 @@
 ## Password Challenge Thing
 
 Check step3.png for an example of it working with a hashed password
-Also check step1.png of an example of it working in plaintext.
+Also check step1.png of an example of it working in plaintext. (step 1 is just a sanity check to show that I got the DB working)
 
 
 I used hashlib to hash the password:
