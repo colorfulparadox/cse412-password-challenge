@@ -1,6 +1,7 @@
 ## Password Challenge Thing
 
-Check database_image for an example of it working
+Check step3.png for an example of it working with a hashed password
+Also check step1.png of an example of it working in plaintext.
 
 
 I used hashlib to hash the password:
