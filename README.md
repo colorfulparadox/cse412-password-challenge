@@ -10,4 +10,7 @@ I setup my database in a docker image to port 5430
 also I named my database users
 
 
-you also need flask and psycopg2 installed. 
+you also need flask and psycopg2 installed to run
+```
+pip install flask psycopg2
+```
